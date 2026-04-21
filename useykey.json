@@ -11,7 +11,7 @@
     "username": "Vedang",
     "password": "vedang123",
     "expiresAt": "2030-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
